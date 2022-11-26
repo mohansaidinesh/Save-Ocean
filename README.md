@@ -1,1 +1,4 @@
-# Save-Ocean-s
+# Save-Ocean's
+The ocean is one of the most unexplored parts of our planet, with a magnitude of undiscovered species and mysteries. It turns out from the studies conducted over the last few decades, this magnificent environment is under serious threat from human intervention, with plastics set to outnumber fish by 2050.
+Marine life, as we know it, is suffering irreparable damage from the chemical pollution of the waters and the millions of tons of mismanaged waste dumped in the oceans each year. The result is a planetary crisis with over 100 million marine animal’s lives get lost every year, and the decay of the ocean's ecosystem.
+Almost 1,000 species of marine animals get impacted by ocean pollution, and we now have over 500 locations recorded as dead zones where marine life cannot exist. How did this happen, what is causing the most damage, find out everything below in the marine pollution statistics roundup.
