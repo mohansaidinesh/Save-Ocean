@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar */
+.navbar-brand-text{
+    color: #3362CC;
+}
+
+/* introduction */
+#introduction{
+    min-height: 80vh;
+    background-image: url('section1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#introduction-title{
+    color: #3362CC;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#introduction-description{
+    color: black;
+    font-size: 18px;
+}
+
+#donation-button{
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
+}
+
+#content1{
+    background-color: #3362CC;
+}
+
+.content-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.content-description{
+    color: white;
+    font-size: 16px;
+}
